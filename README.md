@@ -5,10 +5,11 @@ Kaggle'ın ikonik makine öğrenmesi veri seti olan Titanic (https://www.kaggle.
 An itibariyle unlabeled test veri seti submission'ım %78.468 isabetle ilk %17'lik dilimde. Buraya yüklediğim notebookları Kaggle'da da paylaşıp yarışma submission'ıma bağladım (https://www.kaggle.com/onatto/titanic-veri-seti-k-nn-ve-logreg).
 
 Şimdiye kadar denediğim modeller:
--K - Nearest Neighbors
 
--Logistic Regression
+◼ K-Nearest Neighbors
 
--Decision Tree
+◼ Logistic Regression
 
--Support Vector Classifier
+◼ Decision Tree
+
+◼ Support Vector Classifier
