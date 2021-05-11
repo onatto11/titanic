@@ -6,6 +6,9 @@ An itibariyle unlabeled test veri seti submission'ım %78.468 isabetle ilk %17'l
 
 Şimdiye kadar denediğim modeller:
 -K - Nearest Neighbors
+
 -Logistic Regression
+
 -Decision Tree
+
 -Support Vector Classifier
